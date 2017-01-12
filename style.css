@@ -9,8 +9,16 @@ body {
   margin: 0;
   height: 100%;
   width: 100%;
-}
+  font-family: Hack, monospace;
 
+}
+h1 {
+  font-size: 30px;
+  padding: 10px 30px;
+}
+pre {
+  padding: 15px;
+}
 .color {
   height: 6.25%;
   width: 100%;
@@ -18,11 +26,26 @@ body {
   align-items: center;
   justify-content: center;
 }
-
+.block {
+  height: 75px;
+  width: 75px;
+  margin: 10px;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.row {
+  flex-direction: row;
+}
+.column {
+  flex-direction: column;
+}
 p {
   padding: 0 20px;
   font-size: 30px;
-  font-style: Roboto;
 }
 
 .color00 {
