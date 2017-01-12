@@ -45,7 +45,12 @@ pre {
 }
 p {
   padding: 0 20px;
-  font-size: 30px;
+  font-size: 12px;
+  color: #263238;
+}
+a {
+  text-decoration: none;
+  color: #2bb6f4;
 }
 
 .color00 {
