@@ -46,39 +46,39 @@ pre {
 p {
   padding: 0 20px;
   font-size: 12px;
-  color: #263238;
+  color: #0b232d;
 }
 a {
   text-decoration: none;
-  color: #2bb6f4;
+  color: #20b1f4;
 }
 
 .color00 {
-  background: #263238;
+  background: #0b232d;
 }
 .color01 {
-  background: #37474f;
+  background: #163d52;
 }
 .color02 {
-  background: #465963;
+  background: #205874;
 }
 .color03 {
-  background: #566e78;
+  background: #29708d;
 }
 .color04 {
-  background: #afbec6;
+  background: #bdbda3;
 }
 .color05 {
-  background: #cfd8dc;
+  background: #e2e2ce;
 }
 .color06 {
-  background: #eceff1;
+  background: #f3f3e7;
 }
 .color07 {
   background: #ffffff;
 }
 .color08 {
-  background: #e65a5a;
+  background: #ea4a57;
 }
 .color09 {
   background: #ffb74d;
@@ -87,47 +87,47 @@ a {
   background: #f7e26a;
 }
 .color11 {
-  background: #5aad5f;
+  background: #37c573;
 }
 .color12 {
-  background: #43bbbf;
+  background: #41eee0;
 }
 .color13 {
-  background: #2bb6f4;
+  background: #20b1f4;
 }
 .color14 {
   background: #9575cf;
 }
 .color15 {
-  background: #e65c83;
+  background: #f369b1;
 }
 
 .text00 {
-  color: #263238;
+  color: #0b232d;
 }
 .text01 {
-  color: #37474f;
+  color: #163d52;
 }
 .text02 {
-  color: #465963;
+  color: #205874;
 }
 .text03 {
-  color: #566e78;
+  color: #29708d;
 }
 .text04 {
-  color: #afbec6;
+  color: #bdbda3;
 }
 .text05 {
-  color: #cfd8dc;
+  color: #e2e2ce;
 }
 .text06 {
-  color: #eceff1;
+  color: #f3f3e7;
 }
 .text07 {
   color: #ffffff;
 }
 .text08 {
-  color: #e65a5a;
+  color: #ea4a57;
 }
 .text09 {
   color: #ffb74d;
@@ -136,18 +136,18 @@ a {
   color: #f7e26a;
 }
 .text11 {
-  color: #5aad5f;
+  color: #37c573;
 }
 .text12 {
-  color: #43bbbf;
+  color: #41eee0;
 }
 .text13 {
-  color: #2bb6f4;
+  color: #20b1f4;
 }
 .text14 {
   color: #9575cf;
 }
 .text15 {
-  color: #e65c83;
+  color: #f369b1;
 }
 
